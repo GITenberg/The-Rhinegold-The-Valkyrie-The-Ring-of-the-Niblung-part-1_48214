@@ -1,4 +1,5 @@
 _repo: The-Rhinegold-The-Valkyrie-The-Ring-of-the-Niblung-part-1_48214
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Rackham, Arthur
@@ -11,6 +12,9 @@ contributor:
     agent_name: Armour, Margaret
     gutenberg_agent_id: '1248'
     url: http://www.gutenberg.org/2009/agents/1248
+covers:
+- cover_type: archival
+  image_path: 48214-h/images/cover.jpg
 creator:
   author:
     agent_name: Wagner, Richard
@@ -26,6 +30,8 @@ creator:
     - http://en.wikipedia.org/wiki/Richard_Wagner
     - http://fr.wikipedia.org/wiki/Richard_Wagner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48214#The-Rhinegold-The-Valkyrie-The-Ring-of-the-Niblung-part-1
 gutenberg_issued: '2015-02-09'
 gutenberg_type: Text
 identifiers:
